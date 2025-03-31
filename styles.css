@@ -1,5 +1,32 @@
+/*---------------------*/
+/* RESET PAR DEFAUT */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+/*---------------------*/
+/* Background */
+body {
+    background-image: url("./background/poudlard.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+    background-color: rgba(250, 235, 215, 0.628);
+    border-radius: 10%;
+    padding: 2rem;
+}
+/*---------------------*/
