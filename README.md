@@ -1,2 +1,2 @@
-# Jeux-h-ros-JS
+# Jeux-heros-JS
 Jeux développé en Javascript
