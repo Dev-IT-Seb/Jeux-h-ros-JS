@@ -15,6 +15,7 @@
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if this project helped you!  
+PROMO 2025 - CENTRE DE FORMATION WEBECOM
 
 ***
