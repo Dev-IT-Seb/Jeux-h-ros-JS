@@ -9,13 +9,13 @@
 
 ## Author
 
-👤 **Sebastien C.**
+👤 **Sebastien C.**  
+** Promo 2025 **
 
 * Github: [@Dev-IT-Seb](https://github.com/Dev-IT-Seb)
 
 ## Show your support
 
-Give a ⭐️ if this project helped you!  
-Promo 2025
+Give a ⭐️ if this project helped you!
 
 ***
